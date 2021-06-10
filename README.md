@@ -1,5 +1,7 @@
 # PortfolioJC
 
+[Accéder au Portfolio](http://portfolio.jacques-curtis.fr/)
+
 ## Contexte
 
 Site ayant pour but de mettre en avant mon CV à travers mes compétences en développement web.
