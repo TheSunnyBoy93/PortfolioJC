@@ -12,12 +12,13 @@ require('app/config.php');
             }
         </style>
         <meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Jacques Curtis</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
-	<meta name="author" content="" />
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Jacques Curtis</title>
+        <link rel="icon" href="favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="author" content="" />
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -152,6 +153,7 @@ Copyright Jacques Curtis &copy;<script>document.write(new Date().getFullYear());
 										<h2 class="colorlib-heading">Qui suis-je?</h2>
 										<p style="font-size: 18px"><strong>Bonjour je m'appelle Jacques Curtis, </strong>Franco-Irlandais né le 6 octobre 2000, je suis actuellement en 3ème année à l'Ecole Supérieure de Génie Informatique, en Système Réseaux et Cloud Computing. Cette année, j'ai effectuée mon alternance a la suite de celle de mon BTS à la Prefecture de Seine-Saint-Denis avec un rythme de 2 semaine en entreprise et 1 semaine a l'école afin d'acquerir les compétences et le savoir vivre en entreprise nécéssaire.<br>Dans le cadre de mon BTS j'ai été amené à poursuivre une première année en formation initiale avec un stage de fin d'année nous permettant de poursuivre l'année d'après avec une alternance. Je suis actuellement en alternance a la Préfecture de la Seine-Saint-Denis à Bobigny dans le cadre de ma 2ème année avec un rythme de 3 jours en entreprise et 2 jours à l'école et je suis amené à travailler avec l'ensemble des services afin de résoudre les pannes ou configurer des postes. </p>
 										<p style="font-size: 18px">J'aime apprendre en permanence, découvrir de nouvelles technologies innovantes et mettre en pratique ce que j'ai pus appprendre a l'école dans mon travail et dans la vie de tous les jours.</p>
+                                        <a href="https://github.com/TheSunnyBoy93">Ci-joint mon github</a>
 									</div>
 								</div>
 							</div>
@@ -312,12 +314,24 @@ Copyright Jacques Curtis &copy;<script>document.write(new Date().getFullYear());
                                     <div class="panel panel-default">
                                         <div class="panel-heading" role="tab" id="headingOne">
                                             <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Brevet de Technicien Supérieur (2020-2021 / en cours)</a>
+                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Mastère Système Réseaux et Cloud Computing (2021-2023 / en cours)</a>
                                             </h4>
                                         </div>
                                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                             <div class="panel-body">
                                                 <p><b><u>Centre formateur :</u></b><br>Ecole Supérieure de Génie Informatique ESGI<br><b><u>BACHELOR SRC :</u></b><br>Système Réseaux et Cloud Computing. <br><b><u>Objectif de la formation :</u></b><br>La spécialisation Systèmes, Réseaux et Cloud Computing délivre une formation de très haut niveau sur les méthodes de conception, de réalisation et de sécurité des architectures systèmes et réseaux.. <br><b><u>Débouchés :</u></b><br>- Administrateur systèmes et réseaux.<br>- Ingénieur Exploitant d'infrastructure.<br>- Ingénieur de Production.<br>- Pilote d’exploitation.<br></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading" role="tab" id="headingOne">
+                                            <h4 class="panel-title">
+                                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor Système Réseaux et Cloud Computing (2020-2021)</a>
+                                            </h4>
+                                        </div>
+                                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                                            <div class="panel-body">
+                                                <p><b><u>Centre formateur :</u></b><br>Ecole Supérieure de Génie Informatique ESGI<br><b><u>BACHELOR SRC :</u></b><br>Système Réseaux et Cloud Computing. <br><b><u>Objectif de la formation :</u></b><br>La spécialisation Systèmes, Réseaux et Cloud Computing délivre une formation de très haut niveau sur les méthodes de conception, de réalisation et de sécurité des architectures systèmes et réseaux.. <br><b><u>Débouchés :</u></b><br>- Administrateur systèmes et réseaux.<br>- Ingénieur Exploitant d'infrastructure.<br>- Ingénieur de Production.<br>- Pilote d’exploitation.<br><b><u>Projets effectués :</u></b><br>- Projet d'administration systeme et reseau windows 2016/2019<br>- Projet CCNA (2 parties)<br>- Projet d'administration et de supervision sous Nagios<br>- Projet de planification de projet<br>- Projet de conception de Base de donnée<br>- Projet Versionning sur github/gitlab<br>- Projet Scripting en Python v3.0<br>- Projet Annuel : Mise en place d'une infrastructure reseau d'entreprise complete fonctionnelle<br></p>
                                             </div>
                                         </div>
                                     </div>
@@ -329,7 +343,7 @@ Copyright Jacques Curtis &copy;<script>document.write(new Date().getFullYear());
 									    </div>
 									    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
 									         <div class="panel-body">
-                                                 <p><b><u>Centre formateur :</u></b><br>UFA Robert Schuman 93440 Dugny<br><b><u>BTS SIO SISR :</u></b><br>Brevet de Technicien Supérieur, Service d'Information aux Organisations option Solution d'infrastructure, Système et Réseaux. <br><b><u>Objectif de la formation :</u></b><br>Le titulaire du BTS SIO a pour objectif de produire et fournir un ensemble de solutions et/ou de services informatiques en tant que collaborateur interne et externe en fonction de la spécialité, SISR (Solutions d’infrastructures, systèmes et réseaux) ou SLAM (Solutions logicielles et applications métiers). <br><b><u>Débouchés :</u></b><br>- Administrateur systèmes et réseaux.<br>- Technicien de production.<br>- Technicien micro et réseaux.<br>- Pilote d’exploitation.<br><a data-nav-section="formations" href="doc/epreuves/bts_sio_e4.pdf" target="_blank"><b><u>Explication de l'épreuves E4 :</u></b></a><br>-Préparation : 20 min. L’étudiant/candidat prend connaissance de l’expression des besoins et prépare une réponse appropriée.<br>- oral : 20 min. L’étudiant explique sa réponse.<br>- Préparation : 1 h. L’étudiant/candidat réalise la solution proposée.<br>- Présentation de la solution pendant 20 min.<br><a data-nav-section="formations" href="doc/epreuves/bts_sio_e6.pdf" target="_blank"><b><u>Explication de l'épreuves E6 :</u></b></a><br>- Entretien centré sur le parcours de professionnalisation du candidat : 20 minutes.<br>- Entretien centré sur les compétences déclarées du candidat liées aux activités du processus de gestion du patrimoine informatique : 20 minutes.</p>
+                                                 <p><b><u>Centre formateur :</u></b><br>UFA Robert Schuman 93440 Dugny<br><b><u>BTS SIO SISR :</u></b><br>Brevet de Technicien Supérieur, Service d'Information aux Organisations option Solution d'infrastructure, Système et Réseaux. <br><b><u>Objectif de la formation :</u></b><br>Le titulaire du BTS SIO a pour objectif de produire et fournir un ensemble de solutions et/ou de services informatiques en tant que collaborateur interne et externe en fonction de la spécialité, SISR (Solutions d’infrastructures, systèmes et réseaux) ou SLAM (Solutions logicielles et applications métiers). <br><b><u>Débouchés :</u></b><br>- Administrateur systèmes et réseaux.<br>- Technicien de production.<br>- Technicien micro et réseaux.<br>- Pilote d’exploitation.<br><a data-nav-section="formations" href="doc/epreuves/bts_sio_e4.pdf" target="_blank"><b><u>Explication de l'épreuves E4 :</u></b></a><br>- Préparation : 20 min. L’étudiant/candidat prend connaissance de l’expression des besoins et prépare une réponse appropriée.<br>- oral : 20 min. L’étudiant explique sa réponse.<br>- Préparation : 1 h. L’étudiant/candidat réalise la solution proposée.<br>- Présentation de la solution pendant 20 min.<br><a data-nav-section="formations" href="doc/epreuves/bts_sio_e6.pdf" target="_blank"><b><u>Explication de l'épreuves E6 :</u></b></a><br>- Entretien centré sur le parcours de professionnalisation du candidat : 20 minutes.<br>- Entretien centré sur les compétences déclarées du candidat liées aux activités du processus de gestion du patrimoine informatique : 20 minutes.</p>
 									         </div>
 									    </div>
 									</div>
@@ -392,6 +406,26 @@ Copyright Jacques Curtis &copy;<script>document.write(new Date().getFullYear());
 					<div class="row">
 						<div class="col-md-12">
 				         <div class="timeline-centered">
+                             <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                 <div class="timeline-entry-inner">
+
+                                     <div class="timeline-icon color-1">
+                                         <i class="flaticon-university"></i>
+                                     </div>
+
+                                     <div class="timeline-label">
+                                         <h2><a href="http://www.seine-saint-denis.gouv.fr/">Alternant au sein de la Banque Populaire/Caisse d'Epargne</a> <span><br>2021-2023-En cours</span></h2>
+                                         <p>
+                                             <br>Missions :
+                                             <br>-
+                                             <br>-
+                                             <br>-
+                                             <br>-
+                                             <br></p>
+                                     </div>
+                                 </div>
+                             </article>
+
 					         <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 					            <div class="timeline-entry-inner">
 
@@ -400,8 +434,14 @@ Copyright Jacques Curtis &copy;<script>document.write(new Date().getFullYear());
 					               </div>
 
 					               <div class="timeline-label">
-					                  <h2><a href="http://www.seine-saint-denis.gouv.fr/">Alternant au sein de la prefecture de la Seine-Saint-Denis a Bobigny</a> <span><br>2019-2021-En cours</span></h2>
-					                  <p>Technicien alternant au Bureau de support informatique de la prefecture de la Seine-Saint-Denis a Bobigny.<br>Missions :<br>-Support utilisateurs (Dépannage des sessions utilisateurs, mouvement de matériel informatique).<br>-Support téléphonique, déploiement de système d'exploitation.<br>-Configuration de téléphones portables.<br>-Configuration de badges d'impressions<br>et beaucoup plus!!</p>
+					                  <h2><a href="http://www.seine-saint-denis.gouv.fr/">Alternant au sein de la prefecture de la Seine-Saint-Denis a Bobigny</a> <span><br>Septembre 2019 - Aout 2021</span></h2>
+					                  <p>Technicien alternant au Bureau de support informatique de la prefecture de la Seine-Saint-Denis a Bobigny.
+                                          <br>Missions :
+                                          <br>-Support utilisateurs (Dépannage des sessions utilisateurs, mouvement de matériel informatique).
+                                          <br>-Support téléphonique, déploiement de système d'exploitation.
+                                          <br>-Configuration de téléphones portables.
+                                          <br>-Configuration de badges d'impressions
+                                          <br>et beaucoup plus!!</p>
 					               </div>
 					            </div>
 					         </article>
@@ -477,40 +517,14 @@ Copyright Jacques Curtis &copy;<script>document.write(new Date().getFullYear());
 							<div class="project" style="background-image: url(images/logo.jpg);">
 								<div class="desc">
 									<div class="con">
-										<h3><a data-nav-section="projets" href="doc/Projets/LPRS-Doc.pdf" target="_blank">Projet LPRS</a></h3>
-										<span>Voici une documentation du contexte dans lequel j'ai eu avec mes collègues de classe configurer un réseau entier d'entreprise :<br>-Configuration de Switch (Cisco 3550 et Cisco 2950)<br>-Outil de supervision(PRTG)<br>-Serveur proxy(pfsense)<br>-Outil de traitement de ticket(GLPI)<br>-Création d'un serveur de messagerie<br>-Configuration d'un serveur Active Directory avec ajout des utilisateurs via un script et DNS.</span>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div class="project" style="background-image: url(images/win-srv.png);">
-								<div class="desc">
-									<div class="con">
-										<h3><a data-nav-section="projets" href="doc/Projets/win_srv_2012.pdf" target="_blank">Installation de windows serveur</a></h3>
-										<span>Vous trouverez ici une documentation pour installer windows serveur et le rentrer dans un domaine.</span>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-							<div class="project" style="background-image: url(images/pfsense.jpg);">
-								<div class="desc">
-									<div class="con">
-										<h3><a data-nav-section="projets" href="doc/Projets/pfsense.pdf" target="_blank">Serveur Proxy (PFSENSE)</a></h3>
-										<span>Une documentation pour l'installation et la configuration de base de l'interface de pfsense ainsi que l'accès a l'application web.</span>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-							<div class="project" style="background-image: url(images/switch.jpg);">
-								<div class="desc">
-									<div class="con">
-                                        <h3><a data-nav-section="projets" href="doc/Projets/switch_lprs.pdf" target="_blank">Switch Cisco 3550/2950</a></h3>
-										<span>Voici une documentation pour configurer les switchs 3550 et 2950 avec une prise en main a distance via Putty.</span>
+										<h3><a data-nav-section="projets" href="doc/Projets/BTS/LPRS-Doc.pdf" target="_blank">Projet LPRS</a></h3>
+                                        <span>Voici une documentation du contexte dans lequel j'ai eu avec mes collègues de classe configurer un réseau entier d'entreprise :
+                                            <br><a href="doc/Projets/BTS/switch_lprs.pdf" style="color:#FF0000;" target="_blank">-Configuration de Switch (Cisco 3550 et Cisco 2950)</a>
+                                            <br>-Outil de supervision(PRTG)
+                                            <br><a href="doc/Projets/BTS/pfsense.pdf" style="color:#FF0000;" target="_blank">-Serveur proxy(pfsense)</a>
+                                            <br>-Outil de traitement de ticket(GLPI)
+                                            <br>-Création d'un serveur de messagerie
+                                            <br><a href="doc/Projets/BTS/win_srv_2012.pdf" style="color:#FF0000;" target="_blank">-Configuration d'un serveur Active Directory avec ajout des utilisateurs via un script et DNS.</a></span>
 									</div>
 								</div>
 							</div>
@@ -520,8 +534,38 @@ Copyright Jacques Curtis &copy;<script>document.write(new Date().getFullYear());
                             <div class="project" style="background-image: url(images/ovh.png);">
                                 <div class="desc">
                                     <div class="con">
-                                        <h3><a data-nav-section="projets" href="doc/Projets/OVH_doc.pdf" target="_blank">Mettre son site en ligne avec OVH</a></h3>
-                                        <span>A l'aide de cette documentation technique, vous pourrez recréer votre propre serveur avec OVH.</span>
+                                        <h3><a data-nav-section="projets" href="doc/Projets/Perso/OVH_doc.pdf" target="_blank">Mettre son site en ligne avec OVH</a></h3>
+                                        <span>A l'aide de cette documentation technique que j'ai faite, vous pourrez recréer votre propre serveur avec OVH.</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
+                            <div class="project" style="background-image: url(images/esgi.jpg);">
+                                <div class="desc">
+                                    <div class="con">
+                                        <h3><a data-nav-section="projets" href="https://github.com/TheSunnyBoy93" target="_blank">Projets Bachelor</a></h3>
+                                        <span>La documentation des différents projets (cliquez sur chaque titre pour avoir le sylabus des projets):
+                                        <br><a href="doc/Projets/Bachelor/BDD.pdf" style="color:#FF0000;" target="_blank">Projet Base de Donnee</a>
+                                        <br><a href="doc/Projets/Bachelor/ccna_1.pdf" style="color:#FF0000;" target="_blank">CCNA partie 1</a>
+                                        <br><a href="doc/Projets/Bachelor/ccna_2.pdf" style="color:#FF0000;" target="_blank">CCNA partie 2</a>
+                                        <br><a href="doc/Projets/Bachelor/infra.pdf" style="color:#FF0000;" target="_blank">Projet infrastructure reseaux</a>
+                                        <br><a href="doc/Projets/Bachelor/nagios.pdf" style="color:#FF0000;" target="_blank">Projet Nagios</a>
+                                        <br><a href="doc/Projets/Bachelor/pyhton.pdf" style="color:#FF0000;" target="_blank">Projet Python (également disponible sur Github)</a>
+                                        <br><a href="doc/Projets/Bachelor/versionning.pdf" style="color:#FF0000;" target="_blank">Projet de versionning sur Github/Gitlab</a>
+                                        <br><a href="doc/Projets/Bachelor/PA.pdf" style="color:#FF0000;" target="_blank">Projet annuel de Bachelor</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
+                            <div class="project" style="background-image: url(images/github-logo.png);">
+                                <div class="desc">
+                                    <div class="con">
+                                        <h3><a data-nav-section="projets" href="https://github.com/TheSunnyBoy93" target="_blank">Plus de projets sur mon Github!</a></h3>
+                                        <span>Vous retrouverez sur mon github beaucoup d'autres projets de dévellopement effectués.</span>
                                     </div>
                                 </div>
                             </div>
